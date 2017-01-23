@@ -11,7 +11,7 @@ Playbook²
 
 ## 😇 Contribute to playbooks
 
-#### Don't
+### Don't
 
 - don't mention clients
 - don't post company sensitive information
@@ -19,13 +19,13 @@ Playbook²
 - don't use other peoples work or person as examples without their consent
 - don't display other peoples code without their consent
 
-#### 1. Discuss in issues
+### 1. Discuss in issues
 
 Create a new issue. Once consensus has been reached head to step 2.
 
 Example: https://github.com/agensdev/playbook-vcs/issues/5
 
-#### 2. Create a pull request
+### 2. Create a pull request
 
 Manifest your concern / idea.
 
