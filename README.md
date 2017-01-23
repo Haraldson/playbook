@@ -35,7 +35,10 @@ Example: https://github.com/agensdev/playbook-vcs/pull/2
 
 Subscribe. If you are, say an ios developer, you should subscribe and participate in the ios playbook.
 
+## 👮 Requirement levels
 
+We use [RFC 2119](https://tools.ietf.org/html/rfc2119) to indicate requirement levels in our playbooks.
+ 
 ## License
 
 <p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
