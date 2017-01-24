@@ -4,20 +4,21 @@ Playbook²
 ### 👋 Our playbooks
 
 - [iOS](https://github.com/agensdev/playbook-ios)
-- [android](https://github.com/agensdev/playbook-android)
-- [VCS / GIT](https://github.com/agensdev/playbook-vcs)
-- [web](https://github.com/agensdev/playbook-web)
+- [Android](https://github.com/agensdev/playbook-android)
+- [VCS / Git](https://github.com/agensdev/playbook-vcs)
+- [Web](https://github.com/agensdev/playbook-web)
 
 
 ## 😇 Contribute to playbooks
 
-### Don't
+### Don’t
 
-- don't mention clients
-- don't post company sensitive information
-- don't post passwords
-- don't use other peoples work or person as examples without their consent
-- don't display other peoples code without their consent
+- don’t mention clients
+- don’t post company sensitive information
+- don’t post passwords
+- don’t use other peoples work or person as examples without their consent
+- don’t display other peoples code without their consent
+- don’t be a jerk
 
 ### 1. Discuss in issues
 
@@ -33,7 +34,7 @@ Example: https://github.com/agensdev/playbook-vcs/pull/2
 
 ## 🙌 Subscribe to playbooks
 
-Subscribe. If you are, say an ios developer, you should subscribe and participate in the ios playbook.
+Subscribe. If you are, say an iOS developer, you should subscribe and participate in the iOS playbook.
 
 
 ## License
